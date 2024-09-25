@@ -30,11 +30,11 @@ To get started, follow these steps:
 - **Expand Levels:** Add additional levels or obstacles to enhance the challenge.
 
 ## Project Structure
-FlappyBird/
-├── assets/
-│   ├── background.png  # Background image for the game
-│   ├── bird.png        # Bird sprite for animation
-│   ├── column.png      # Column used as an obstacle
-│   └── road.png        # Road at the bottom of the screen
-├── index.html          # Main HTML file
-└── app.js              # Game logic and Phaser.js code
+FlappyBird/              
+├── assets/              
+│ ├── background.png # Background image for the game                  
+│ ├── bird.png # Bird sprite for animation                            
+│ ├── column.png # Column used as an obstacle                         
+│ └── road.png # Road at the bottom of the screen                     
+├── index.html # Main HTML file                                       
+└── app.js # Game logic and Phaser.js code                            
