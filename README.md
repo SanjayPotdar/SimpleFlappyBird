@@ -8,7 +8,9 @@ This project is a simplified version of the popular game **Flappy Bird**, develo
 - [Project Structure](#project-structure)
 
 ## Demo
-To play the game, you will need to run it using a live server. Open the `index.html` file in any modern web browser using a live server extension.
+To play the game, you will need to run it using a live server. Open the `index.html` file in any modern web browser using a live server extension,
+or you can play it directly [here](https://sanjaypotdar.github.io/SimpleFlappyBird/).
+
 
 
 ## Installation
